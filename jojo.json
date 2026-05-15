@@ -7,22 +7,22 @@
     },
 
     {
-        "Joestar" : "Jonathan Joestar ",
-        "Parte" : "1 ",
-        "Stand" : "?? ",
+        "Joestar" : "Joseph Joestar   ",
+        "Parte" : "2 ",
+        "Stand" : "Hermit Purple ",
+        "morreu" :"não "
+    },
+
+    {
+        "Joestar" : "Jotaro Kujo ",
+        "Parte" : "3 ",
+        "Stand" : "Star Platinum ",
         "morreu" :"sim "
     },
 
     {
-        "Joestar" : "Jonathan Joestar ",
-        "Parte" : "1 ",
-        "Stand" : "?? ",
-        "morreu" :"sim "
-    },
-
-    {
-        "Joestar" : "Jonathan Joestar ",
-        "Parte" : "1 ",
+        "Joestar" : "Josuke Higashikata ",
+        "Parte" : "2 ",
         "Stand" : "?? ",
         "morreu" :"sim "
     },
